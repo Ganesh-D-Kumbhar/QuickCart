@@ -27,7 +27,7 @@ const Navbar = () => {
               alt="E-Shop Logo"
               className="h-[55px] mr-2 rounded-2"
             />
-            <span className="text-xl font-bold">ShopSphere</span>
+            <span className="text-xl font-bold">QuickCart</span>
           </Link>
         </div>
 
